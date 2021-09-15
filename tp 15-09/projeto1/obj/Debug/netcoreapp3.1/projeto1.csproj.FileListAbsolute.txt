@@ -1,0 +1,13 @@
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\projeto1\projeto1\bin\Debug\netcoreapp3.1\projeto1.exe
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\projeto1\projeto1\bin\Debug\netcoreapp3.1\projeto1.deps.json
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\projeto1\projeto1\bin\Debug\netcoreapp3.1\projeto1.runtimeconfig.json
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\projeto1\projeto1\bin\Debug\netcoreapp3.1\projeto1.runtimeconfig.dev.json
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\projeto1\projeto1\bin\Debug\netcoreapp3.1\projeto1.dll
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\projeto1\projeto1\bin\Debug\netcoreapp3.1\projeto1.pdb
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\projeto1\projeto1\obj\Debug\netcoreapp3.1\projeto1.AssemblyInfoInputs.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\projeto1\projeto1\obj\Debug\netcoreapp3.1\projeto1.AssemblyInfo.cs
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\projeto1\projeto1\obj\Debug\netcoreapp3.1\projeto1.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\projeto1\projeto1\obj\Debug\netcoreapp3.1\projeto1.dll
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\projeto1\projeto1\obj\Debug\netcoreapp3.1\projeto1.pdb
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\projeto1\projeto1\obj\Debug\netcoreapp3.1\projeto1.genruntimeconfig.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\projeto1\projeto1\obj\Debug\netcoreapp3.1\projeto1.csprojAssemblyReference.cache
