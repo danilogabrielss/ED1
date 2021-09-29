@@ -1,0 +1,13 @@
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 29-09\projeto2\projeto2\obj\Debug\netcoreapp3.1\projeto2.csprojAssemblyReference.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 29-09\projeto2\projeto2\obj\Debug\netcoreapp3.1\projeto2.AssemblyInfoInputs.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 29-09\projeto2\projeto2\obj\Debug\netcoreapp3.1\projeto2.AssemblyInfo.cs
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 29-09\projeto2\projeto2\obj\Debug\netcoreapp3.1\projeto2.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 29-09\projeto2\projeto2\bin\Debug\netcoreapp3.1\projeto2.exe
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 29-09\projeto2\projeto2\bin\Debug\netcoreapp3.1\projeto2.deps.json
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 29-09\projeto2\projeto2\bin\Debug\netcoreapp3.1\projeto2.runtimeconfig.json
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 29-09\projeto2\projeto2\bin\Debug\netcoreapp3.1\projeto2.runtimeconfig.dev.json
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 29-09\projeto2\projeto2\bin\Debug\netcoreapp3.1\projeto2.dll
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 29-09\projeto2\projeto2\bin\Debug\netcoreapp3.1\projeto2.pdb
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 29-09\projeto2\projeto2\obj\Debug\netcoreapp3.1\projeto2.dll
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 29-09\projeto2\projeto2\obj\Debug\netcoreapp3.1\projeto2.pdb
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 29-09\projeto2\projeto2\obj\Debug\netcoreapp3.1\projeto2.genruntimeconfig.cache

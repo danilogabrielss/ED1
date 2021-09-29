@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danilo\\Documents\\Danilo\\IFSP\\EAD\\4 semestre\\ED1I estrutura de dados\\projetos\\tp 15-09\\projeto1\\projeto1.csproj",
-      "projectName": "projeto1",
-      "projectPath": "C:\\Users\\Danilo\\Documents\\Danilo\\IFSP\\EAD\\4 semestre\\ED1I estrutura de dados\\projetos\\tp 15-09\\projeto1\\projeto1.csproj",
+      "projectUniqueName": "C:\\Users\\Danilo\\Documents\\Danilo\\IFSP\\EAD\\4 semestre\\ED1I estrutura de dados\\projetos\\tp 29-09\\projeto2\\projeto2\\projeto2.csproj",
+      "projectName": "projeto2",
+      "projectPath": "C:\\Users\\Danilo\\Documents\\Danilo\\IFSP\\EAD\\4 semestre\\ED1I estrutura de dados\\projetos\\tp 29-09\\projeto2\\projeto2\\projeto2.csproj",
       "packagesPath": "C:\\Users\\Danilo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danilo\\Documents\\Danilo\\IFSP\\EAD\\4 semestre\\ED1I estrutura de dados\\projetos\\tp 15-09\\projeto1\\obj\\",
+      "outputPath": "C:\\Users\\Danilo\\Documents\\Danilo\\IFSP\\EAD\\4 semestre\\ED1I estrutura de dados\\projetos\\tp 29-09\\projeto2\\projeto2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Danilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
