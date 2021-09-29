@@ -28,19 +28,19 @@ namespace projeto2
             }
             return podeAdd;
         }
-        public string pesquisarParticipante(Participante[] p)
-        {            
-            string achou = "";
-            Console.Write("Digite o email da pessoa a ser procurada: ");
-            string search = Console.ReadLine();
-            for (int k = 0; k < 900; k++)
+        public string pesquisarParticipante(Participante p)
+        {
+            for (int i = 0; i < qtdeParticipantes(); i++)
             {
-                if (p[k].Email == search)
-                    p[k].Nome = achou;                
+                foreach (Participante participante in osEventos[i].Participantes)
+                {
+                    if (participante.Equals(p))
+                    {
+                        return "Encontrado";
+                    }
+                }
             }
-            if (achou == "")
-                achou = "Não encontrado";
-            return achou;
+            return "Não encontrado";
         }
         public int qtdeParticipantes()
         {

@@ -33,7 +33,7 @@ namespace projeto2
                         fim = 10;
                         break;
                     case 1:
-                        Console.Write("Digite o dia da semana em numero(1=SEG a 6=SAB): ");
+                        Console.Write("\nDigite o dia da semana em numero(1=SEG a 6=SAB): ");
                         int dia = Convert.ToInt32(Console.ReadLine());
                         while (dia > 7 || dia < 0)
                         {
@@ -49,7 +49,7 @@ namespace projeto2
                         Console.WriteLine(eventos[dia].adicionarEvento(evento[dia]));
                         break;
                     case 2:
-                        Console.Write("Qual dia do evento voce deseja pesquisar(1=SEG a 6=SAB)? ");
+                        Console.Write("\nQual dia do evento voce deseja pesquisar(1=SEG a 6=SAB)? ");
                         int diaPesquisa = Convert.ToInt32(Console.ReadLine());
                         while (diaPesquisa > 6 || diaPesquisa < 1)
                         {
@@ -61,13 +61,11 @@ namespace projeto2
                         Console.WriteLine();
                         break;
                     case 3:
-                        //evento[].listarEventos();
                         for (int a = 0; a < 7; ++a)
                         {
                             if (evento[a].Descricao != "")
                             {
-                                //Console.WriteLine(eventos[a].listaEventos());
-                                Console.WriteLine("Dia da semana: " + evento[a].Id);
+                                Console.WriteLine("\nDia da semana: " + evento[a].Id);
                                 Console.WriteLine("Descricao: " + evento[a].Descricao);
                                 Console.WriteLine("Quantidade atual de participantes: " + evento[a].qtdeParticipantes());
                                 Console.WriteLine("Quantidade maxima de participantes: " + evento[a].QtdeMaxParticipantes);
@@ -75,7 +73,7 @@ namespace projeto2
                         }
                         break;
                     case 4:
-                        Console.Write("Digite o nome do participante: ");
+                        Console.Write("\nDigite o nome do participante: ");
                         string nomeParticipante = Console.ReadLine();
                         Console.Write("Digite o email do participante: ");
                         string emailParticipante = Console.ReadLine();
@@ -89,17 +87,19 @@ namespace projeto2
                         participante[diaEvento] = new Participante(emailParticipante, nomeParticipante);
                         Console.WriteLine(evento[diaEvento].inscreverParticipante(participante[diaEvento]));
                         break;
-                    case 5:                        
-                        Console.Write("Digite o dia do evento: ");
+                    case 5:
+                        Console.Write("\nDigite o email da pessoa a ser procurada: ");
+                        string search = Console.ReadLine();
+                        Console.Write("\nDigite o dia do evento: ");
                         int diaPesqEvento = Convert.ToInt32(Console.ReadLine());
                         while (diaPesqEvento > 7 || diaPesqEvento < 0)
                         {
                             Console.WriteLine("Digite o dia do evento: ");
                             diaPesqEvento = Convert.ToInt32(Console.ReadLine());
                         }                        
-                        /*Participante encontrar = new Participante();
-                        encontrar.Email = search;*/
-                        Console.WriteLine(eventos[diaPesqEvento].pesquisarParticipante(participante));
+                        Participante[] encontrar = new Participante[6];
+                        encontrar[diaPesqEvento] = new Participante(search, "");
+                        Console.WriteLine(eventos[diaPesqEvento].pesquisarParticipante(encontrar[diaPesqEvento]));
                         break;
                     case 6:
                         int total = 0;

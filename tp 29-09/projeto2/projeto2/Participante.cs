@@ -53,7 +53,7 @@ namespace projeto2
             return "[[Email:" + email + "] [Nome: " + nome + "]]\n";
         }
 
-        public override int GetHashCode()
+        /*public override int GetHashCode()
         {
             return base.GetHashCode();
         }
@@ -61,6 +61,6 @@ namespace projeto2
         public override string ToString()
         {
             return base.ToString();
-        }
+        }*/
     }
 }
