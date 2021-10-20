@@ -1,0 +1,13 @@
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Projeto3\Projeto3\bin\Debug\netcoreapp3.1\Projeto3.exe
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Projeto3\Projeto3\bin\Debug\netcoreapp3.1\Projeto3.deps.json
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Projeto3\Projeto3\bin\Debug\netcoreapp3.1\Projeto3.runtimeconfig.json
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Projeto3\Projeto3\bin\Debug\netcoreapp3.1\Projeto3.runtimeconfig.dev.json
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Projeto3\Projeto3\bin\Debug\netcoreapp3.1\Projeto3.dll
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Projeto3\Projeto3\bin\Debug\netcoreapp3.1\Projeto3.pdb
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Projeto3\Projeto3\obj\Debug\netcoreapp3.1\Projeto3.csprojAssemblyReference.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Projeto3\Projeto3\obj\Debug\netcoreapp3.1\Projeto3.AssemblyInfoInputs.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Projeto3\Projeto3\obj\Debug\netcoreapp3.1\Projeto3.AssemblyInfo.cs
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Projeto3\Projeto3\obj\Debug\netcoreapp3.1\Projeto3.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Projeto3\Projeto3\obj\Debug\netcoreapp3.1\Projeto3.dll
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Projeto3\Projeto3\obj\Debug\netcoreapp3.1\Projeto3.pdb
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Projeto3\Projeto3\obj\Debug\netcoreapp3.1\Projeto3.genruntimeconfig.cache

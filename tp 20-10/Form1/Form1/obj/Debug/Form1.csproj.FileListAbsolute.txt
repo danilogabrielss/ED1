@@ -1,0 +1,10 @@
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Form1\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Form1\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Form1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 20-10\Form1\Form1\obj\Debug\Form1.pdb
