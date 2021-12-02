@@ -1,0 +1,13 @@
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 01-12\Projeto Medicamento\Projeto Medicamento\bin\Debug\netcoreapp3.1\Projeto Medicamento.exe
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 01-12\Projeto Medicamento\Projeto Medicamento\bin\Debug\netcoreapp3.1\Projeto Medicamento.deps.json
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 01-12\Projeto Medicamento\Projeto Medicamento\bin\Debug\netcoreapp3.1\Projeto Medicamento.runtimeconfig.json
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 01-12\Projeto Medicamento\Projeto Medicamento\bin\Debug\netcoreapp3.1\Projeto Medicamento.runtimeconfig.dev.json
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 01-12\Projeto Medicamento\Projeto Medicamento\bin\Debug\netcoreapp3.1\Projeto Medicamento.dll
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 01-12\Projeto Medicamento\Projeto Medicamento\bin\Debug\netcoreapp3.1\Projeto Medicamento.pdb
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 01-12\Projeto Medicamento\Projeto Medicamento\obj\Debug\netcoreapp3.1\Projeto Medicamento.csprojAssemblyReference.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 01-12\Projeto Medicamento\Projeto Medicamento\obj\Debug\netcoreapp3.1\Projeto Medicamento.AssemblyInfoInputs.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 01-12\Projeto Medicamento\Projeto Medicamento\obj\Debug\netcoreapp3.1\Projeto Medicamento.AssemblyInfo.cs
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 01-12\Projeto Medicamento\Projeto Medicamento\obj\Debug\netcoreapp3.1\Projeto Medicamento.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 01-12\Projeto Medicamento\Projeto Medicamento\obj\Debug\netcoreapp3.1\Projeto Medicamento.dll
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 01-12\Projeto Medicamento\Projeto Medicamento\obj\Debug\netcoreapp3.1\Projeto Medicamento.pdb
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\tp 01-12\Projeto Medicamento\Projeto Medicamento\obj\Debug\netcoreapp3.1\Projeto Medicamento.genruntimeconfig.cache
