@@ -1,0 +1,13 @@
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Locação\Projeto Locação\bin\Debug\netcoreapp3.1\Projeto Locação.exe
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Locação\Projeto Locação\bin\Debug\netcoreapp3.1\Projeto Locação.deps.json
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Locação\Projeto Locação\bin\Debug\netcoreapp3.1\Projeto Locação.runtimeconfig.json
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Locação\Projeto Locação\bin\Debug\netcoreapp3.1\Projeto Locação.runtimeconfig.dev.json
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Locação\Projeto Locação\bin\Debug\netcoreapp3.1\Projeto Locação.dll
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Locação\Projeto Locação\bin\Debug\netcoreapp3.1\Projeto Locação.pdb
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Locação\Projeto Locação\obj\Debug\netcoreapp3.1\Projeto Locação.AssemblyInfoInputs.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Locação\Projeto Locação\obj\Debug\netcoreapp3.1\Projeto Locação.AssemblyInfo.cs
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Locação\Projeto Locação\obj\Debug\netcoreapp3.1\Projeto Locação.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Locação\Projeto Locação\obj\Debug\netcoreapp3.1\Projeto Locação.dll
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Locação\Projeto Locação\obj\Debug\netcoreapp3.1\Projeto Locação.pdb
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Locação\Projeto Locação\obj\Debug\netcoreapp3.1\Projeto Locação.genruntimeconfig.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Locação\Projeto Locação\obj\Debug\netcoreapp3.1\Projeto Locação.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Transporte\Projeto Transporte\bin\Debug\netcoreapp3.1\Projeto Transporte.exe
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Transporte\Projeto Transporte\bin\Debug\netcoreapp3.1\Projeto Transporte.deps.json
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Transporte\Projeto Transporte\bin\Debug\netcoreapp3.1\Projeto Transporte.runtimeconfig.json
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Transporte\Projeto Transporte\bin\Debug\netcoreapp3.1\Projeto Transporte.runtimeconfig.dev.json
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Transporte\Projeto Transporte\bin\Debug\netcoreapp3.1\Projeto Transporte.dll
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Transporte\Projeto Transporte\bin\Debug\netcoreapp3.1\Projeto Transporte.pdb
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Transporte\Projeto Transporte\obj\Debug\netcoreapp3.1\Projeto Transporte.csprojAssemblyReference.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Transporte\Projeto Transporte\obj\Debug\netcoreapp3.1\Projeto Transporte.AssemblyInfoInputs.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Transporte\Projeto Transporte\obj\Debug\netcoreapp3.1\Projeto Transporte.AssemblyInfo.cs
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Transporte\Projeto Transporte\obj\Debug\netcoreapp3.1\Projeto Transporte.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Transporte\Projeto Transporte\obj\Debug\netcoreapp3.1\Projeto Transporte.dll
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Transporte\Projeto Transporte\obj\Debug\netcoreapp3.1\Projeto Transporte.pdb
+C:\Users\Danilo\Documents\Danilo\IFSP\EAD\4 semestre\ED1I estrutura de dados\projetos\Projeto Transporte\Projeto Transporte\obj\Debug\netcoreapp3.1\Projeto Transporte.genruntimeconfig.cache

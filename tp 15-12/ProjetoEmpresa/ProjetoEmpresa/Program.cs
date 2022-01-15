@@ -12,7 +12,6 @@ namespace ProjetoEmpresa
             //SqlCommand cmd = new SqlCommand();
             //con.conectar();
             /*string retornoConexao = "";
-
             try
             {
                 //Conectar com o banco
