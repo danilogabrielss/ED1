@@ -8,9 +8,12 @@ namespace Projeto_Transporte
     {
         public int id { get; set; }
         public string local { get; set; }
-        public Stack<Veiculo> veiculos { get; set; }
-        public Garagem() { veiculos = new Stack<Veiculo>(); }
-
+        private Stack<Veiculo> veiculos = new Stack<Veiculo>();
+        public Garagem() { }
+        public Stack<Veiculo> Veiculos
+        {
+            get { return veiculos; }
+        }
         public Garagem(int id, string local)
         {
             this.id = id;
@@ -24,7 +27,12 @@ namespace Projeto_Transporte
         public int potencialDeTransporte()
         {
             int retorno = 0;
+            foreach(Veiculo v in veiculos)
+            {
+                retorno += v.lotacao;
+            }
             return retorno;
         }
+
     }
 }

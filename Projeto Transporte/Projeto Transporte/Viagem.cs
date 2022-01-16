@@ -18,5 +18,14 @@ namespace Projeto_Transporte
             this.destino = destino;
             this.veiculo = veiculo;
         }
+        public override bool Equals(object obj)
+        {
+            Viagem viagem = (Viagem)obj;
+            return viagem.id.Equals(id);
+        }
+        public override string ToString()
+        {
+            return "Id: " + id + ", Origem: " + origem.ToString()+ ", Destino: " + destino.ToString()+ "\nVeículo - " + veiculo.ToString();
+        }
     }
 }

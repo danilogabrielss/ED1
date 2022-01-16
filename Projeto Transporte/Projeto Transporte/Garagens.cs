@@ -7,12 +7,13 @@ namespace Projeto_Transporte
     class Garagens
     {
         public List<Garagem> garagens { get; set; }
+        public List<Transporte> transportes { get; set; }
         public bool jornadaAtiva { get; set; }
-        public Garagens(){garagens = new List<Garagem>();}
-        public Garagens(bool jornadaAtiva)
+        public Garagens()
         {
-            //garagens = new List<Garagem>();
-            this.jornadaAtiva = jornadaAtiva;
+            garagens = new List<Garagem>();
+            jornadaAtiva = false;
+            transportes = new List<Transporte>();
         }
         public void incluir(Garagem garagem)
         {
@@ -20,11 +21,24 @@ namespace Projeto_Transporte
         }
         public void iniciarJornada()
         {
+            transportes.Clear();
             jornadaAtiva = true;
         }
-        /*public List<Transporte> encerrarJornada()
+        public List<Transporte> encerrarJornada()
         {
-
-        }*/
+            jornadaAtiva = false;
+            return transportes;
+        }
+        public Garagem pesquisarGaragem(Garagem garagem)
+        {
+            foreach (Garagem g in garagens)
+            {
+                if (g.Equals(garagem))
+                {
+                    return g;
+                }
+            }
+            return null;
+        }
     }
 }

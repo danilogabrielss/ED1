@@ -8,5 +8,11 @@ namespace Projeto_Transporte
     {
         public Veiculo veiculo { get; set; }
         public int qtdeTransportada { get; set; }
+        public Transporte() { }
+        public Transporte(Veiculo veiculo, int qtde)
+        {
+            this.veiculo = veiculo;
+            this.qtdeTransportada = qtde;
+        }
     }
 }

@@ -7,9 +7,16 @@ namespace Projeto_Transporte
     class Veiculos
     {
         public List<Veiculo> veiculos { get; set; }
+        public Veiculos()
+        {
+            this.veiculos = new List<Veiculo>();
+        }
         public void incluir(Veiculo veiculo)
         {
-            veiculos.Add(veiculo);
+            if (veiculos.Count < 8)
+                veiculos.Add(veiculo);
+            else
+                Console.WriteLine("Numero de veiculos excedido");
         }
     }
 }
